@@ -15,7 +15,7 @@ Public Class PageDownloadLeft
         ItemInstall.Visibility = Visibility.Collapsed
         LabResource.Visibility = Visibility.Collapsed
         PageID = FormMain.PageSubType.DownloadMod
-        ItemMod.Checked = True
+        ItemMod.Checked = False
     End Sub
 
     ''' <summary>
